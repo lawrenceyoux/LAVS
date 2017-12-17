@@ -174,7 +174,6 @@ namespace LAVS {
 		public object Retrive_Sophos_RegKey_REGBINARY (string key_name) {
 			string value64 = string.Empty;
 			try {
-				Console.WriteLine ("hello kitty");
 				RegistryKey localKey = RegistryKey.OpenBaseKey (Microsoft.Win32.RegistryHive.LocalMachine, RegistryView.Registry64);
 
 				key = localKey.OpenSubKey ("SOFTWARE\\Wow6432Node\\Sophos\\AutoUpdate\\UpdateStatus\\");

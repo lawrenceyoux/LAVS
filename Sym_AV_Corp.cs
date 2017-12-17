@@ -100,7 +100,6 @@ namespace LAVS {
                 //Console.WriteLine("format!!!! "+curDefs);
 
                 curDefs_year = curDefs.Substring (8, 4);
-
                 curDefs_month = curDefs.Substring (12, 2);
                 curDefs_day = curDefs.Substring (14, 2);
                 curDefs_rev = curDefs.Substring (17, 3);
