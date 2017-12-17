@@ -2,6 +2,7 @@
 Module Name:  Main.cs
 Project:      LAVS
 Author:       Xiangyu You 
+date: 		  2015 Jan
 
 /// <summary>  
 ///  
