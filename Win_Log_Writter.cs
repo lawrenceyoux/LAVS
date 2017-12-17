@@ -1,11 +1,17 @@
-﻿/*
- * Created by SharpDevelop.
- * User: Administrator
- * Date: 1/31/2013
- * Time: 1:30 AM
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
+﻿/****************************** Module Header ******************************\
+Module Name:  .cs
+Project:      LAVS
+Author:       Xiangyu You 
+
+/// <summary>  
+///  
+/// </summary>  
+
+THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, 
+EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED 
+WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE.
+\***************************************************************************/
+
 
 using System;
 using System.Diagnostics;

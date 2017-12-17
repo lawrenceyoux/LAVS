@@ -1,13 +1,11 @@
 ﻿/****************************** Module Header ******************************\
 Module Name:  Main.cs
 Project:      LAVS
-Copyright (c) Microsoft Corporation.
+Author:       Xiangyu You 
 
-LAVS main class
-
-This source is subject to the Microsoft Public License.
-See http://www.microsoft.com/opensource/licenses.mspx#Ms-PL.
-All other rights reserved.
+/// <summary>  
+///  
+/// </summary>  
 
 THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, 
 EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED 
