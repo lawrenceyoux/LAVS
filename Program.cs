@@ -4,7 +4,7 @@ Project:      LAVS
 Author:       Xiangyu You 
 
 /// <summary>  
-///  
+///  <summary>  
 /// </summary>  
 
 THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, 
